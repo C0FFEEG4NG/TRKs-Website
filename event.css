@@ -1,0 +1,35 @@
+@font-face {
+    font-family: 'Super Mindset';
+    src: url('Super Mindset.ttf');
+}
+body {
+    background-color: #F6AB60;
+    color: #B41830;
+    min-height: 100vh;
+    font-family: 'Super Mindset', sans-serif;
+    padding: 60px 100px;
+    line-height: 2;
+    max-width: 800px;
+    margin: auto;
+    text-align: center;
+}
+h1 {
+    color: #E1233E;
+    font-size: 48px;
+}
+h2 {
+    font-size: 28px;
+}
+a {
+    color: #8E9166;
+    font-size: 20px;
+}
+a:hover {
+    color: #F6AB60;
+}
+a.back {
+    color: #E1233E;
+}
+a.back:hover {
+    color: #B41830;
+}
